@@ -1,10 +1,9 @@
 # Hello World
-Hello my name is Yesol Kim from Republic of Korea.
-Blah blah ~.
+~.
 
 
 # Career
-C, C++, C#, Python, Mysql...;
+C, C++, C#, Python, Oracle, Mysql...;
 
 
 # Portfolio
